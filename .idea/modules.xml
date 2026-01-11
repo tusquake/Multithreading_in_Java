@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Engineering_Digest/Engineering_Digest.iml" filepath="$PROJECT_DIR$/Engineering_Digest/Engineering_Digest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Future and Completable Future/Future and Completable Future.iml" filepath="$PROJECT_DIR$/Future and Completable Future/Future and Completable Future.iml" />
       <module fileurl="file://$PROJECT_DIR$/Multithreading_in_Java.iml" filepath="$PROJECT_DIR$/Multithreading_in_Java.iml" />
       <module fileurl="file://$PROJECT_DIR$/Synchronization/Synchronization.iml" filepath="$PROJECT_DIR$/Synchronization/Synchronization.iml" />
       <module fileurl="file://$PROJECT_DIR$/Syncronization and Reentrant Lock/Syncronization and Reentrant Lock.iml" filepath="$PROJECT_DIR$/Syncronization and Reentrant Lock/Syncronization and Reentrant Lock.iml" />
