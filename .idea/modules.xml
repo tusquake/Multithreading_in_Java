@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/CyclicBarrier and CountDownLatch/CyclicBarrier and CountDownLatch.iml" filepath="$PROJECT_DIR$/CyclicBarrier and CountDownLatch/CyclicBarrier and CountDownLatch.iml" />
       <module fileurl="file://$PROJECT_DIR$/Engineering_Digest/Engineering_Digest.iml" filepath="$PROJECT_DIR$/Engineering_Digest/Engineering_Digest.iml" />
       <module fileurl="file://$PROJECT_DIR$/Future and Completable Future/Future and Completable Future.iml" filepath="$PROJECT_DIR$/Future and Completable Future/Future and Completable Future.iml" />
       <module fileurl="file://$PROJECT_DIR$/Multithreading_in_Java.iml" filepath="$PROJECT_DIR$/Multithreading_in_Java.iml" />
